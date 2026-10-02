@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+downloads/
+youtube-cookies.txt
+cookies*.txt
+.venv/
+venv/
+env/
+.env
+*.log
